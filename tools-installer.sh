@@ -31,7 +31,7 @@ trap ctrl_c INT
 ctrl_c() {
 clear
 echo "Author : AnonyminHack5" | lolcat
-echo "WhatsApp : +2349033677589" | lolcat
+echo "WhatsApp : +923275487993 | lolcat
 figlet -f slant "AnonyminHack5" | lolcat
 sleep 1
 exit
@@ -561,8 +561,8 @@ echo -e "${y} SUDAH TERINSTAL.."
 
 ;;
 
-100) git clone https://github.com/UltimateHackers/hue
-
+100) git clone ht
+tps://github.com/UltimateHackers/hue
 
 ;;
 
